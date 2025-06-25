@@ -78,7 +78,7 @@ class GameManager:
 
 
 
-        # Task 8
+        # Task 8:
 
         # TODO: Declare the character index and whether the character is selected.
 
@@ -97,7 +97,7 @@ class GameManager:
 
 
 
-        # Task 4
+        # Task 4:
 
         # TODO: For each character, load their image and randomly generate their stats.
 
@@ -154,7 +154,7 @@ class GameManager:
 
 
 
-            # Task 7
+            # Task 7:
 
             # TODO: If the user presses a key.
 
